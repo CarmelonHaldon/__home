@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+<booleanAttribute key="M2_DEBUG_OUTPUT" value="false"/>
+<stringAttribute key="M2_GOALS" value="clean package"/>
+<booleanAttribute key="M2_NON_RECURSIVE" value="false"/>
+<booleanAttribute key="M2_OFFLINE" value="false"/>
+<stringAttribute key="M2_PROFILES" value=""/>
+<listAttribute key="M2_PROPERTIES"/>
+<stringAttribute key="M2_RUNTIME" value="apache-maven-3.2.5-bin"/>
+<booleanAttribute key="M2_SKIP_TESTS" value="true"/>
+<intAttribute key="M2_THREADS" value="1"/>
+<booleanAttribute key="M2_UPDATE_SNAPSHOTS" value="false"/>
+<stringAttribute key="M2_USER_SETTINGS" value="${workspace_loc:/__carmelonhaldon-work/user/m2/settings.xml}"/>
+<booleanAttribute key="M2_WORKSPACE_RESOLUTION" value="false"/>
+<mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="GIT_CONFIG" value="C:\__home\__carmelonhaldon\user\git"/>
+<mapEntry key="GNUPGHOME" value="C:\__home\__carmelonhaldon\user\gnupg"/>
+<mapEntry key="PATH" value="C:\__home\__carmelonhaldon\bin\GPG_Plugin_Portable_2.2.12\bin;C:\__home\__carmelonhaldon\bin\PortableGit-2.21.0-64-bit\bin;${env_var:PATH}"/>
+</mapAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.JRE_CONTAINER" value="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-7u79-windows-x64"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dhttp.proxyHost=127.0.0.1 -Dhttp.proxyPort=9090 -Dhttps.proxyHost=127.0.0.1 -Dhttps.proxyPort=9090 -Xmx1024m -Xms512m -XX:MaxPermSize=1024m -XX:PermSize=512m -Dhttps.protocols=TLSv1.2"/>
+<stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="${project_loc:org.springframework.roo.root}"/>
+</launchConfiguration>

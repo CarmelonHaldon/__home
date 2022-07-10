@@ -1,0 +1,6 @@
+GitRepositoriesView.GitDirectories=C\:\\__home\\CarmelonHaldon\\git\\sqldeveloper-passwords\\.git;C\:\\__home\\CarmelonHaldon\\git\\__home\\.git;C\:\\__home\\CarmelonHaldon\\git\\oracle-export\\.git;C\:\\__home\\CarmelonHaldon\\git\\eclipse-gitignoredfilter\\.git;C\:\\__home\\CarmelonHaldon\\git\\hermes-bytesrenderer\\.git;C\:\\__home\\CarmelonHaldon\\git\\winscp-passwords\\.git;C\:\\__home\\CarmelonHaldon\\git\\AutoDeriv\\.git;C\:\\__home\\CarmelonHaldon\\git\\eclipse-derivedfilter\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\__home\\CarmelonHaldon\\git\\sqldeveloper-passwords\\.git;C\:\\__home\\CarmelonHaldon\\git\\__home\\.git;C\:\\__home\\CarmelonHaldon\\git\\oracle-export\\.git;C\:\\__home\\CarmelonHaldon\\git\\eclipse-gitignoredfilter\\.git;C\:\\__home\\CarmelonHaldon\\git\\hermes-bytesrenderer\\.git;C\:\\__home\\CarmelonHaldon\\git\\winscp-passwords\\.git;C\:\\__home\\CarmelonHaldon\\git\\AutoDeriv\\.git;C\:\\__home\\CarmelonHaldon\\git\\eclipse-derivedfilter\\.git;
+core_autoIgnoreDerivedResources=false
+core_defaultRepositoryDir=C\:\\__home\\CarmelonHaldon\\git
+core_preferredMergeStrategy=jgit-default-mergeStrategy
+eclipse.preferences.version=1

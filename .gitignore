@@ -1,0 +1,53 @@
+# TODO CarmelonHaldon: .gitignore > .derived > Por defecto nada es ignored/derived...
+
+!/
+
+# TODO CarmelonHaldon: ... menos lo que se explicite...
+
+CarmelonHaldon/bin/apache-maven-3.6.1-bin/*
+!CarmelonHaldon/bin/apache-maven-3.6.1-bin/conf
+CarmelonHaldon/bin/apache-maven-3.6.1-bin/conf/*
+!CarmelonHaldon/bin/apache-maven-3.6.1-bin/conf/settings.xml
+
+CarmelonHaldon/bin/jdk-7u79-windows-x64/*
+
+CarmelonHaldon/bin/jdk-8u212-windows-x64/*
+
+CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/*
+!CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/*SpringToolSuite4*.ini
+
+!CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/configuration
+CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/configuration/*
+!CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/configuration/.settings
+!CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/configuration/org.eclipse.equinox.simpleconfigurator
+
+!CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/p2
+CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/p2/*
+!CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/p2/org.eclipse.equinox.p2.engine
+CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/p2/org.eclipse.equinox.p2.engine/*
+!CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry
+CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/*
+!CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data
+CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data/*
+!CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data/.settings
+
+!CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/plugins
+CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/plugins/*
+!CarmelonHaldon/bin/spring-tool-suite-4-4.2.2.RELEASE-e4.11.0-win32.win32.x86_64/plugins/es.carmelonhaldon*
+
+CarmelonHaldon/user/m2/repository/*
+
+CarmelonHaldon/user/sts/*
+
+!CarmelonHaldon/user/sts/__launch
+
+!CarmelonHaldon/user/sts/Documents
+CarmelonHaldon/user/sts/Documents/workspace-spring-tool-suite-4-4.2.2.RELEASE/.metadata/*
+!CarmelonHaldon/user/sts/Documents/workspace-spring-tool-suite-4-4.2.2.RELEASE/.metadata/.plugins
+CarmelonHaldon/user/sts/Documents/workspace-spring-tool-suite-4-4.2.2.RELEASE/.metadata/.plugins/*
+!CarmelonHaldon/user/sts/Documents/workspace-spring-tool-suite-4-4.2.2.RELEASE/.metadata/.plugins/org.eclipse.core.runtime
+
+# TODO CarmelonHaldon: https://davidwalsh.name/git-empty-directory
+# TODO CarmelonHaldon: Que no se considere .derived...??
+
+!*.gitkeep

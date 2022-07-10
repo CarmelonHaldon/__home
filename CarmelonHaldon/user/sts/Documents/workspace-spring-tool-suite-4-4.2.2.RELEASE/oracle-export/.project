@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>oracle-export</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>de.loskutov.FileSync.FSBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.derived</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/.gitignore</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

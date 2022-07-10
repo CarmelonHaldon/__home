@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+nonProxiedHosts=
+org.eclipse.core.net.hasMigrated=true
+proxyData/HTTP/hasAuth=false
+proxyData/HTTP/host=127.0.0.1
+proxyData/HTTP/port=9090
+proxyData/HTTPS/hasAuth=false
+proxyData/HTTPS/host=127.0.0.1
+proxyData/HTTPS/port=9090
+systemProxiesEnabled=false
